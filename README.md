@@ -1,6 +1,6 @@
 # TrinHack2015 - Leap Trivia
-####Leap Motion Quiz Game - 
-aimed to help students learn without straining their hands on keyboards.
+####Leap Motion Quiz Game
+Aimed to help students learn without straining their hands on keyboards.
 
 
 Technologies Used
