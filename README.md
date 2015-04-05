@@ -1,6 +1,6 @@
 # TrinHack2015 - Leap Trivia
 Built at TrinHacks2015, Leap Trivia aims to help students learn without straining their hands on keyboards.
-Creators/Contributers: Justin He, Conor Yuen, Matthew Armstrong, and Teddy Saltzman.
+####Creators/Contributers: Justin He, Conor Yuen, Matthew Armstrong, and Teddy Saltzman.
 
 Technologies Used
 --------------
