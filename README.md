@@ -7,7 +7,7 @@ Leap Motion uses
 - [Processing] - A Programming language that is basically a beginner's java; also has easy-to-use Java visualization
 - [LeapMotionP5] - A open-sourced library that eases implementation of Leap Motion into Processing code
 
-#Creators/Contributers: 
+####Creators/Contributers: 
 Justin He, Conor Yuen, Matthew Armstrong, and Teddy Saltzman.
 
 [Processing]: https://processing.org/
