@@ -1,5 +1,5 @@
 # TrinHack2015 - Leap Trivia
-Aimed to help students learn without straining their hands on keyboards.
+Built at TrinHacks2015, Leap Trivia aims to help students learn without straining their hands on keyboards.
 
 Technologies Used
 --------------
